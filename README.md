@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Ajay Vishwakarma
-
-🎯 **Aspiring Software Engineer | Java & Full-Stack Development Enthusiast**
+<h1 align="center">👋 Hi, I'm Ajay Vishwakarma</h1>
+🎯 Aspiring Software Engineer | Java & Full-Stack Development Enthusiast
 
 Welcome to my GitHub profile!  
 I'm passionate about building impactful applications using Java, Spring Boot, and modern web technologies.
@@ -26,8 +25,8 @@ I'm passionate about building impactful applications using Java, Spring Boot, an
 ---
 
 ### 📈 GitHub Stats
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayvishwakarma&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvishwakarma&layout=compact&theme=tokyonight)
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajay050904&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay050904&layout=compact&theme=tokyonight)
 
 ---
 
@@ -41,6 +40,11 @@ I'm passionate about building impactful applications using Java, Spring Boot, an
 ---
 
 ### 📫 Connect With Me
-📧 [ajayvishwakarma0509@gmail.com](mailto:ajayvishwakarma0509@gmail.com)  
+📧 [To Mail](mailto:ajayvishwakarma0509@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/ajay-vishwakarma05)  
+
+### Features
+![Profile Views](https://komarev.com/ghpvc/?username=Ajay050904&color=blue)
+<img src="https://raw.githubusercontent.com/Ajay050904/Ajay050904/main/wave.gif" width="100%">
+
 

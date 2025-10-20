@@ -41,6 +41,6 @@ I'm passionate about building impactful applications using Java, Spring Boot, an
 ---
 
 ### 📫 Connect With Me
-📧 [ajay.email@example.com](mailto:ajayvishwakarma0509@gmail.com)  
+📧 [ajayvishwakarma0509@gmail.com](mailto:ajayvishwakarma0509@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/ajay-vishwakarma05)  
 
